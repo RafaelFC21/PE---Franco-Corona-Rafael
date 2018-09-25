@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\PC\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\PC\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\PC\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\PC\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
+E:\Examen 1 Estructura de Bases de Datos\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+E:\Examen 1 Estructura de Bases de Datos\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+E:\Examen 1 Estructura de Bases de Datos\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+E:\Examen 1 Estructura de Bases de Datos\Practica 1\Practica 1\obj\Debug\Practica 1.csprojResolveAssemblyReference.cache
+E:\Examen 1 Estructura de Bases de Datos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+E:\Examen 1 Estructura de Bases de Datos\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+E:\Examen 1 Estructura de Bases de Datos\Practica 1\Practica 1\obj\Debug\Practica 1.pdb

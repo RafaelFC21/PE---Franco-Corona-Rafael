@@ -1,0 +1,21 @@
+C:\Users\rafae\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+C:\Users\rafae\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+C:\Users\rafae\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+C:\Users\rafae\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.csprojResolveAssemblyReference.cache
+C:\Users\rafae\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+C:\Users\rafae\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.pdb
+E:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+E:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+E:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+E:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.csprojResolveAssemblyReference.cache
+E:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.CoreCompileInputs.cache
+E:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+E:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.pdb
+D:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+D:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+D:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+D:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.csprojAssemblyReference.cache
+D:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.CoreCompileInputs.cache
+D:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+D:\Examen 1 Estructura de Bases de Datos\Practica 2\Practica 2\obj\Debug\Practica 2.pdb

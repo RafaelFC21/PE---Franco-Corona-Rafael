@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\Practica 4\Practica 4\bin\Debug\Practica 4.exe.config
+C:\Users\rafae\source\repos\Practica 4\Practica 4\bin\Debug\Practica 4.exe
+C:\Users\rafae\source\repos\Practica 4\Practica 4\bin\Debug\Practica 4.pdb
+C:\Users\rafae\source\repos\Practica 4\Practica 4\obj\Debug\Practica 4.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Practica 4\Practica 4\obj\Debug\Practica 4.exe
+C:\Users\rafae\source\repos\Practica 4\Practica 4\obj\Debug\Practica 4.pdb
+D:\Examen 1 Estructura de Bases de Datos\Practica 4\Practica 4\obj\Debug\Practica 4.csprojAssemblyReference.cache
+D:\Examen 1 Estructura de Bases de Datos\Practica 4\Practica 4\obj\Debug\Practica 4.csproj.CoreCompileInputs.cache
+D:\Examen 1 Estructura de Bases de Datos\Practica 4\Practica 4\obj\Debug\Practica 4.exe
+D:\Examen 1 Estructura de Bases de Datos\Practica 4\Practica 4\obj\Debug\Practica 4.pdb

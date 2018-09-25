@@ -1,0 +1,7 @@
+c:\users\rafae\source\repos\Practica 6\Practica 6\bin\Debug\Practica 6.exe.config
+c:\users\rafae\source\repos\Practica 6\Practica 6\bin\Debug\Practica 6.exe
+c:\users\rafae\source\repos\Practica 6\Practica 6\bin\Debug\Practica 6.pdb
+c:\users\rafae\source\repos\Practica 6\Practica 6\obj\Debug\Practica 6.csproj.CoreCompileInputs.cache
+c:\users\rafae\source\repos\Practica 6\Practica 6\obj\Debug\Practica 6.exe
+c:\users\rafae\source\repos\Practica 6\Practica 6\obj\Debug\Practica 6.pdb
+C:\Users\rafae\source\repos\Practica 6\Practica 6\obj\Debug\Practica 6.csprojResolveAssemblyReference.cache
