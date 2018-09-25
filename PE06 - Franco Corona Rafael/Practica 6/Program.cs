@@ -30,7 +30,7 @@ namespace Practica_6
                     }
                     else if (contador + 1 == cant)
                     {
-                        Console.WriteLine("El orden no es decendiente");
+                        Console.WriteLine("El orden no es decendiente, su indice es 0");
                     }
                 }
             }
